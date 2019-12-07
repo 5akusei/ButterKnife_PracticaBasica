@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Butter_Knife</string>
+    <string name="titulo">This is a main title</string>
+    <string name="subtitulo">This is a subtitle</string>
+</resources>
